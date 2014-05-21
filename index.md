@@ -25,7 +25,7 @@ I enjoy all the aspects of the practice of psychology.  I especially enjoy the w
 
 ## Basic Philosophy
 
-My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here;
+My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here:
 
 - I will make every effort to provide therapeutic help that promotes the best interests of my clients.
 - What is good for the soul of mankind, spiritually is good for him/her psychologically as well.
