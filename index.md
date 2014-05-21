@@ -7,8 +7,10 @@ tagline: Christian Psychologist
 I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Partridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
 
 <div class="well">
-#401 Plaza 2   <\br>
-Chattanooga, TN 37404
+
+    #401 Plaza 2   </br>
+    Chattanooga, TN 37404
+    
 </div>
 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
