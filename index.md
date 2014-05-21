@@ -3,15 +3,19 @@ layout: flatly
 title: Dr. Jay Spalding
 tagline: Christian Psychologist
 ---
+
 ## How to Find Me
 I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Partridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
 
-\#401 Plaza 2
-2339 McCallie Ave.
-Chattanooga, TN 37404
+<div class="well">
+
+    #401 Plaza 2 </br>
+    2339 McCallie Ave </br>
+    Chattanooga, TN 37404
+
+</div>
 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
-
 
 ## Who am I?
 I was raised in Glen Ellyn Illinois.  My siblings are Dirk ( minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
@@ -36,6 +40,8 @@ I enjoy all the aspects of the practice of psychology.  I especially enjoy the w
 
 # Contact
 
-Jay A. Spalding Ph.D..
-Licensed psychologist Tn. and Ga.
-o: 423-629-5524   mssg. 423-517-7575     fax: 423-698-7235.
+Jay A. Spalding Ph.D.  
+Licensed psychologist Tn. and Ga.  
+o: 423-629-5524  
+mssg. 423-517-7575  
+fax: 423-698-7235
