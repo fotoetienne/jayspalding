@@ -9,21 +9,18 @@ I am affiliated with Plaza Counseling Associates.  Our office is located on the 
 <div class="well">
 
     #401 Plaza 2   </br>
-    Chattanooga, TN 37404
+    Chattanooga, TN 37404 </br>
     
+    <a href="http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA" title="Directions to 2339 McCallie Ave">Directions</a>
+
 </div>
 
-[Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
-
-[Back to top](#top)
 
 ## Who am I?
 I was raised in Glen Ellyn Illinois.  My siblings are Dirk ( minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
 I have lived in Chattanooga since 1986 where Susan and I have raised three children and where I've been privileged to practice counseling/clinical psychology from a Biblical perspective.
 I have been an elder at Covenant Presbyterian Church and currently serve on the Pastoral Care Committee of the Tennessee Valley Presbytery.
 I enjoy all the aspects of the practice of psychology.  I especially enjoy the work that involves direct contact with people such as individual, couples, and group therapy.  I also enjoy psychological testing, supervision of other therapists, and  some administrative work.
-
-[Back to top](#top)
 
 ## Basic Philosophy
  - My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here;
@@ -40,8 +37,6 @@ I enjoy all the aspects of the practice of psychology.  I especially enjoy the w
 - We are also told to discuss our troubles and faults with one another, to rejoice and to grieve with each other.  Along with this we are to lovingly correct one another.  These principles work marvelously together in the service of healing when used in small group and group therapy contexts.
 - These principles and many others are brought to us from the Creator through the inspired words of the Bible.
 
-[Back to top](#top)
-
 # Contact
 
 Jay A. Spalding Ph.D.  
@@ -49,5 +44,3 @@ Licensed psychologist Tn. and Ga.
 o: 423-629-5524  
 mssg. 423-517-7575  
 fax: 423-698-7235
-
-[Back to top](#top)
