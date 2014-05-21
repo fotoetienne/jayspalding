@@ -24,7 +24,9 @@ I have been an elder at Covenant Presbyterian Church and currently serve on the 
 I enjoy all the aspects of the practice of psychology.  I especially enjoy the work that involves direct contact with people such as individual, couples, and group therapy.  I also enjoy psychological testing, supervision of other therapists, and  some administrative work.
 
 ## Basic Philosophy
- - My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here;
+
+My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here;
+
 - I will make every effort to provide therapeutic help that promotes the best interests of my clients.
 - What is good for the soul of mankind, spiritually is good for him/her psychologically as well.
 - Psychology provides tools for helping people cope, communicate, reframe experience and perspective, set and achieve goals, be more able to use one's volition, diminish bondage to fear, learn how to relax oneself, process life controlling dramatic events -- diminishing their overwhelming nature and control, and many other things.
