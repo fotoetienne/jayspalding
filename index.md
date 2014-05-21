@@ -9,7 +9,7 @@ I am affiliated with Plaza Counseling Associates.  Our office is located on the 
 <div class="well">
 #401 Plaza 2   <\br>
 Chattanooga, TN 37404
-<div class="well">
+</div>
 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
 
