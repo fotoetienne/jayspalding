@@ -3,6 +3,7 @@ layout: flatly
 title: Dr. Jay Spalding
 tagline: Christian Psychologist
 ---
+
 ## How to Find Me
 I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Partridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
 
