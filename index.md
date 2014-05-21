@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: flatly
 title: Dr. Jay A. Spalding, PHD
 ---
 # Dr Jay Spalding
