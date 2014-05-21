@@ -2,6 +2,8 @@
 layout: flatly
 title: Dr. Jay Spalding
 tagline: Christian Psychologist
+long_title: Dr. Jay A. Spalding, Phd. | Christian Psychologist | Chattanooga, TN
+description: Jay Spalding is a counseling psychologist in Chattanooga, TN.
 ---
 
 ## How to Find Me
