@@ -44,8 +44,10 @@ I enjoy all the aspects of the practice of psychology.  I especially enjoy the w
 
 # Contact
 
-Jay A. Spalding Ph.D..
-Licensed psychologist Tn. and Ga.
-o: 423-629-5524   mssg. 423-517-7575     fax: 423-698-7235.
+Jay A. Spalding Ph.D.  
+Licensed psychologist Tn. and Ga.  
+o: 423-629-5524  
+mssg. 423-517-7575  
+fax: 423-698-7235
 
 [Back to top](#top)
