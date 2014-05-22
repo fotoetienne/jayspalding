@@ -7,27 +7,19 @@ description: Jay Spalding is a clinical psychologist in Chattanooga, TN providin
              professional counseling with a Christian world view.
 ---
 
-## How to Find Me
+# How to Find Me
 I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Partridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
 
-<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="well">
-      <span itemprop="streetAddress">#401 Plaza 2</span><br />
-      <span itemprop="streetAddress">2339 McCallie Ave</span><br />
-      <span itemprop="addressLocality">Chattanooga</span>,
-      <span itemprop="addressRegion">TN</span>&nbsp;
-      <span itemprop="postalCode">37404</span><br />
-<!--  <a href="http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA" title="Directions to 2339 McCallie Ave">Directions</a> -->
-</div>
 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
 
-## Who am I?
+# Who am I?
 I was raised in Glen Ellyn Illinois.  My siblings are Dirk ( minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
 I have lived in Chattanooga since 1986 where Susan and I have raised three children and where I've been privileged to practice counseling/clinical psychology from a Biblical perspective.
 I have been an elder at Covenant Presbyterian Church and currently serve on the Pastoral Care Committee of the Tennessee Valley Presbytery.
 I enjoy all the aspects of the practice of psychology.  I especially enjoy the work that involves direct contact with people such as individual, couples, and group therapy.  I also enjoy psychological testing, supervision of other therapists, and  some administrative work.
 
-## Basic Philosophy
+# Basic Philosophy
 
 My practice of "soul care" or biblically informed psychotherapy is based on a number of assumptions. I will list a few of them for you here:
 
