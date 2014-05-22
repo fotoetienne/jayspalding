@@ -48,6 +48,9 @@ My practice of "soul care" or biblically informed psychotherapy is based on a nu
 
 Jay A. Spalding Ph.D.  
 Licensed psychologist TN and GA
-Office: <span itemprop="telephone">423-629-5524</span>
-Voicemail: <span itemprop="telephone">423-517-7575</span>
+
+<div class="well">
+Office: <span itemprop="telephone">423-629-5524</span><br />
+Voicemail: <span itemprop="telephone">423-517-7575</span><br />
 Fax: <span itemprop="telephone">423-698-7235</span>
+</div>
