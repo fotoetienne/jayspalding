@@ -16,7 +16,7 @@ I am affiliated with Plaza Counseling Associates.  Our office is located on the 
       <span itemprop="addressLocality">Chattanooga</span>,
       <span itemprop="addressRegion">TN</span>&nbsp;
       <span itemprop="postalCode">37404</span></br>
-      <a href="http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA" title="Directions to 2339 McCallie Ave">Directions</a>
+<!--  <a href="http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA" title="Directions to 2339 McCallie Ave">Directions</a> -->
 </div>
 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
