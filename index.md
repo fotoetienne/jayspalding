@@ -11,11 +11,11 @@ description: Jay Spalding is a clinical psychologist in Chattanooga, TN providin
 I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Partridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
 
 <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="well">
-      <span itemprop="streetAddress">#401 Plaza 2</span></br>
-      <span itemprop="streetAddress">2339 McCallie Ave</span></br>
+      <span itemprop="streetAddress">#401 Plaza 2</span><br />
+      <span itemprop="streetAddress">2339 McCallie Ave</span><br />
       <span itemprop="addressLocality">Chattanooga</span>,
       <span itemprop="addressRegion">TN</span>&nbsp;
-      <span itemprop="postalCode">37404</span></br>
+      <span itemprop="postalCode">37404</span><br />
 <!--  <a href="http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA" title="Directions to 2339 McCallie Ave">Directions</a> -->
 </div>
 
