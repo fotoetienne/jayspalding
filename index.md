@@ -1,10 +1,16 @@
 ---
 layout: flatly
+
 title: Dr. Jay Spalding
+
 tagline: Christian Psychologist
+
 long_title: Dr. Jay A. Spalding, Phd. | Christian Psychologist | Chattanooga, TN
-description: Jay Spalding is a clinical psychologist in Chattanooga, TN providing
-             professional counseling with a Christian world view.
+
+description: Jay Spalding is a clinical psychologist in Chattanooga, TN providing professional counseling with a Christian world view.
+
+intro: **Welcome** to my office at Plaza Counseling Associates. My goal is to provide you with a warm, safe, professional environment in which you can explore and find help for personal and relational issues. I pledge myself to the care and well-being of those who come to see me. I seek to be nonjudgmental and fair, not taking sides in relational matters. I always share with my clients during the initial session that I attempt to approach life through a Christian world and life view. Most of my clients have wanted a spiritual or Christian foundation to their counseling process. I think of it as "soul care." For those who desire this I seek to help them ground their lifestyle and relational patterns on Biblical principles. For those who do not desire this, I seek to provide the same professional services without pressure to process issues directly from a religious perspective. 
+
 ---
 
 # How to Find Me
@@ -22,8 +28,11 @@ I am affiliated with Plaza Counseling Associates.  Our office is located on the 
 
 # Who am I?
 I was raised in Glen Ellyn Illinois.  My siblings are Dirk ( minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
+
 I have lived in Chattanooga since 1986 where Susan and I have raised three children and where I've been privileged to practice counseling/clinical psychology from a Biblical perspective.
+
 I have been an elder at Covenant Presbyterian Church and currently serve on the Pastoral Care Committee of the Tennessee Valley Presbytery.
+
 I enjoy all the aspects of the practice of psychology.  I especially enjoy the work that involves direct contact with people such as individual, couples, and group therapy.  I also enjoy psychological testing, supervision of other therapists, and  some administrative work.
 
 # Basic Philosophy
