@@ -1,0 +1,4 @@
+# drjayspalding.com
+Here, you can edit the text of [drjayspalding.com](drjayspalding.com). Don't be afraid to go ahead and make changes. All old version are saved, and changes won't effect the 'live' site until pushed manually. To get started, just click the link below, then click 'edit'.
+
+[Click here to get started](index)
