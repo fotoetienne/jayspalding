@@ -10,7 +10,7 @@ long_title: Jay A Spalding, Ph.D. | Psychologist in Chattanooga, TN
 description: Jay Spalding is a clinical psychologist in Chattanooga, TN providing professional counseling with a Christian world view.
 
 intro: >
-    Welcome to my office at Plaza Counseling Associates. My goal is to provide you with a warm, safe, professional environment in which you can explore and find help for personal and relational issues. I pledge myself to the care and well-being of those who come to see me. I seek to be nonjudgmental and fair, not taking sides in relational matters. 
+    Welcome to my office at Plaza Counseling Associates. My goal is to provide you with a warm, safe, professional environment in which you can explore and find help for personal and relational issues. I pledge myself to the care and well-being of those who come to see me. I seek to be nonjudgmental and fair, not taking sides in relational matters.
     
     I always share with my clients during the initial session that I attempt to approach life through a Christian world and life view. Most of my clients have wanted a spiritual or Christian foundation to their counseling process. 
     
@@ -34,15 +34,12 @@ I am affiliated with Plaza Counseling Associates.  Our office is located on the 
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
 
 # Who am I?
-Family and Background: --- dropdown info or link
 I was raised in Glen Ellyn, Illinois.  My siblings are Dirk (minister), Karen (pharmacist), and Randy (electrical engineer). I have lived in Chattanooga since 1986, where my wife, Susan, and I have raised three children and where I've been privileged to practice counseling/clinical psychology from a Biblical perspective. 
 
-Education: --- dropdown info or link
 I attended the University of Illinois, receiving a Bachelors of Science in Psychology, and Trinity Evangelical Divinity school, where I received a Masters of Arts in Pastoral Psychology and Counseling. I also attended Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
 
 I am an elder at Covenant Presbyterian Church and currently serve on the Pastoral Care Committee of the Tennessee Valley Presbytery.
 
-My Practice: --- dropdown info or link
 I enjoy all the aspects of the practice of psychology.  I especially enjoy the work that involves direct contact with people such as individual, couples, and group therapy.  I also enjoy psychological testing, supervision of other therapists, and  some administrative work.
 
 # My Basic Philosophy
