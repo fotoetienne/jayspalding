@@ -14,7 +14,7 @@ intro: >
     
     I always share with my clients during the initial session that I attempt to approach life through a Christian world and life view. Most of my clients have wanted a spiritual or Christian foundation to their counseling process. 
     
-    I think of it as "soul care." 
+    <italics>I think of it as "soul care."<italics> 
     
     For those who desire this type of care, I seek to help them ground their lifestyle and relational patterns on Biblical principles. For those who do not desire it, I seek to provide the same professional services without pressure to process issues directly from a religious perspective. 
 
@@ -77,6 +77,7 @@ Individual psychotherapy(counseling).  Ages 12 years -- -- 100 plus years for:
 -	Overcoming temptations: gaining back personal control and balance when overcome by unwanted habits.
 -	Coping with life stresses, major changes, and losses (grieving).
 -	Stresses and Struggles of Missionary Life
+
 Couples therapy:
 -	Marital and Premarital Counseling.
 -	Mending Broken Relationships, Including Fidelity (Honesty, Fidelity, Forgiveness, Perseverance, Love).
@@ -84,14 +85,17 @@ Couples therapy:
 -	Pre-And Post-Adoption Counseling.
 -	Mental, Emotional, Relational Stresses of the Mission Field.
 -	Retirement years
+
 Family Therapy:
 -	Effective Parenting.
 -	Blending Families.
 -	Relationships with Grown Children.
 -	Caring for Aging Parents.
 -	Building Lasting Sibling Loyalty and Mutuality
+
 Group Therapy:
 -	Hospital and Outpatient Psychotherapy Group's.
+
 Assessment:
 -	Individual Personality Assessment (Used for Therapeutic Treatment Planning.)
 -	Missionary Candidate Assessment.  (Used for Mission Board Evaluation Process)
