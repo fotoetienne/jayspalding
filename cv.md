@@ -1,15 +1,14 @@
 ---
 ---
-# Jay A. Spalding Ph.D. # 
+# Jay A. Spalding Ph.D. #
 *Licensed psychologist TN and GA*
+
 *o: 423­629­5524 mssg. 423­517­7575 fax: 423­698­7235.*
 
 ## Education ##
 Ph.D. Counseling Psychology, University of Georgia. Athens Georgia
 
-Clinical Psychology Internship and Postdoctorate, Medical College of Ohio, and East Side for Community Mental­Health,
-
-Toledo, Ohio
+Clinical Psychology Internship and Postdoctorate, Medical College of Ohio, and East Side for Community Mental­Health, Toledo, Ohio
 
 Ma PC Master's Degree in Pastoral Psychology and Counseling, Trinity Seminary. Deerfield Illinois
 
@@ -28,7 +27,7 @@ B.S. in Psychology, Social Work/Math minor, University of Illinois.
 
 ## Therapeutic Modalities and Client Issues ##
 
-### Individual psychotherapy(counseling). Ages 12 years ­ 100 plus years for: ###
+### Individual psychotherapy(counseling). Ages 12 years - 100 plus years for: ###
 
  - Excessive Controlling Emotions (i.e. depression, anxiety, fear, anger, mania)
  - Relational Struggles and Brokenness.
