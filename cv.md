@@ -11,6 +11,8 @@ description: Jay Spalding is a clinical psychologist in Chattanooga, TN providin
 
 intro: "office: 423-629-5524 <br/>msg: 423-517-7575 <br/>fax: 423-698-7235"
 ---
+{% include banner.html %}
+
 # Jay A. Spalding Ph.D. #
 
 Licensed psychologist TN and GA
