@@ -1,20 +1,16 @@
 ---
 layout: flatly
 
-title: Dr. Jay Spalding
+title: Jay A. Spalding Ph.D.
 
-tagline: Christian Psychologist
+tagline: Licensed psychologist TN and GA
 
-long_title: Dr. Jay A. Spalding, Phd. | Psychologist in Chattanooga, TN | CV
+long_title: Dr. Jay A. Spalding, Phd. | Curriculum Vitae
 
 description: Jay Spalding is a clinical psychologist in Chattanooga, TN providing professional counseling with a Christian world view.
 
+intro: *office: 423-629-5524 </br> mssg: 423-517-7575 </br> fax: 423-698-7235*
 ---
-
-# Jay A. Spalding Ph.D. #
-
-
-*o: 423­629­5524 mssg. 423­517­7575 fax: 423­698­7235.*
 
 ## Education ##
 Ph.D. Counseling Psychology, University of Georgia. Athens Georgia
