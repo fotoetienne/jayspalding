@@ -9,7 +9,8 @@ long_title: Dr. Jay A. Spalding, Phd. | Curriculum Vitae
 
 description: Jay Spalding is a clinical psychologist in Chattanooga, TN providing professional counseling with a Christian world view.
 
-intro: *office: 423-629-5524 mssg: 423-517-7575 fax: 423-698-7235*
+intro: >
+*office: 423-629-5524 mssg: 423-517-7575 fax: 423-698-7235*
 ---
 
 ## Education ##
