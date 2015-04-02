@@ -30,7 +30,7 @@ Chattanooga, TN 37404
 [Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
 
 # Who am I?
-I was raised in Glen Ellyn Illinois.  My siblings are Dirk ( minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
+I was raised in Glen Ellyn Illinois.  My siblings are Dirk (minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
 
 I have lived in Chattanooga since 1986 where Susan and I have raised three children and where I've been privileged to practice counseling/clinical psychology from a Biblical perspective.
 
@@ -52,7 +52,7 @@ My practice of "soul care" or biblically informed psychotherapy is based on a nu
 - Humans also find themselves in the best of conditions when they humbly attempt to love the Creator as well as others and themselves with the deepest aspects of their beings, their minds,their souls, and their strength.
 - It is a healthy thing to make it a point to frequently seek to learn and meditate on the creators' truths.Forgiveness is a principle brought to us by the Creator, which when applied to human relationships contributes powerfully to the healing process.
 - Also, we learn from the Creator that humbly confessing one's wrong thinking and doing to the Creator and to others leads to forgiveness , a clean conscience and soul, and improved trusting relationships with others.
-- We are also told to discuss our troubles and faults with one another, to rejoice and to grieve with each other.  Along with this we are to lovingly correct one another.  These principles work marvelously together in the service of healing when used in small group and group therapy contexts.
+- We are also told to discuss our troubles and faults with one another, to rejoice and to grieve with each other.  Along with this we are to lovingly correct one another. These principles work marvelously together in the service of healing when used in small group and group therapy contexts.
 - These principles and many others are brought to us from the Creator through the inspired words of the Bible.
 
 # Contact
