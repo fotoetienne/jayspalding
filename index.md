@@ -17,17 +17,19 @@ intro: >
 {% include banner.html %}
 
 # How to Find Me
-I am affiliated with Plaza Counseling Associates.  Our office is located on the fourth floor of the office building ( #401 Plaza 2) attached to Parkridge Hospital.  (2339 McCallie Ave.).  "Plaza 2" is located in big letters at the top of the building.  Just take the elevator through the glass doors near the parking garage to the fourth floor, and we will be about 20 feet on your left.
+I am affiliated with [Henegar/CBI Counseling Center](http://cbicounseling.com "Henegar/CBI Counseling Center").  Our office is located on the corner of McCallie Avenue and Orchard Knob. Enter under the blue awning in the parking lot accessed from Oak Street. 
 
 <div class="well">
 
-#401 Plaza 2<br/>
-2339 McCallie Ave<br/>
+Henegar/CBI Counseling Center<br/>
+1815 McCallie Avenue<br/>
 Chattanooga, TN 37404
 
 </div>
 
-[Directions](http://maps.google.com/maps?rlz=1C1LENP_enUS484US484&es_sm=93&q=2339+McCallie+Ave.&um=1&ie=UTF-8&hq=&hnear=0x8860675356ce8bef:0xe519c7e6c608efca,2339+McCallie+Ave,+Chattanooga,+TN+37404&gl=us&daddr=2339+McCallie+Ave,+Chattanooga,+TN+37404&sa=X&ei=EiJ8U6O6LPDlsATg2IHoCg&ved=0CCsQwwUwAA "Directions to 2339 McCallie Ave")
+<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3266.8128290721547!2d-85.27707686928743!3d35.03641208111275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!1i0!3e6!4m0!4m5!1s0x88605e008a696015%3A0x978095c334f5615e!2s1815+McCallie+Ave%2C+Chattanooga%2C+TN+37404!3m2!1d35.0364121!2d-85.27493109999999!5e0!3m2!1sen!2sus!4v1430779891140" width="400" height="300" frameborder="0" style="border:0"></iframe>
+
+[Directions](https://goo.gl/maps/OqnMk "Directions to 1815 McCallie Ave")
 
 # Who am I?
 I was raised in Glen Ellyn Illinois.  My siblings are Dirk (minister), Karen (pharmacist), and Randy (electrical engineer).  I attended the University of Illinois, receiving a bachelors of science in psychology, Trinity Evangelical Divinity school receiving a Masters of Arts in Pastoral Psychology and Counseling, Georgia State University, receiving 45 quarter hours in counseling psychology, and the University of Georgia, receiving a Ph.D. in counseling psychology with a clinical psychology internship and postdoctorate.
