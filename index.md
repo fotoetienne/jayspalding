@@ -27,7 +27,7 @@ Chattanooga, TN 37404
 
 </div>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3266.8128290721547!2d-85.27707686928743!3d35.03641208111275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!1i0!3e6!4m0!4m5!1s0x88605e008a696015%3A0x978095c334f5615e!2s1815+McCallie+Ave%2C+Chattanooga%2C+TN+37404!3m2!1d35.0364121!2d-85.27493109999999!5e0!3m2!1sen!2sus!4v1430779891140" width="400" height="300" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.8158905910796!2d-85.27488210000001!3d35.036335500000014!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88605e008a696015%3A0x74343e5d65e77d16!2sCBI+Counseling+Center!5e0!3m2!1sen!2sus!4v1430780642034" width="400" height="300" frameborder="0" style="border:0"></iframe>
 
 [Directions](https://goo.gl/maps/OqnMk "Directions to 1815 McCallie Ave")
 
