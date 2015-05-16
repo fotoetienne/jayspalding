@@ -68,7 +68,7 @@ BS in Psychology, Social Work/Math minor, University of Illinois.
 
 ### Group Therapy: ###
 
- - Hospital and outpatient psychotherapy group
+ - Hospital and outpatient psychotherapy groups
 
 ### Assessment: ###
 
