@@ -3,6 +3,9 @@ drjayspalding.com
 
 Jay Spalding Phd Public Website
 
+ - Real site: [http://drjayspalding.com](http://drjayspalding.com)
+ - Development site: [http://fotoetienne.github.io/jayspalding-dev](http://fotoetienne.github.io/jayspalding-dev)
+
 ## To edit the site: ##
 
   1. Create a github account [https://github.com/join]
@@ -12,4 +15,3 @@ Jay Spalding Phd Public Website
   5. Click Commit changes when you are done.
   6. Go to [http://fotoetienne.github.io/jayspalding-dev] to see your changes on the development page.
   7. Tell Stephen, and he will push these changes to the real page.
-
