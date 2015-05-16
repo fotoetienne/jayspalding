@@ -25,12 +25,12 @@ BS in Psychology, Social Work/Math minor, University of Illinois.
 
 ## Work History ##
 
- - 12 years as a master's degreed therapist.
- - 30 years as a psychologist.
- - 5 years working with troubled or delinquent teenagers and their families (three years full­time, two years part­time).
- - 10 years director of CBI counseling Center (14 years altogether at CBI).
- - 19 years in hospital group therapy (three to six groups per week).
- - Teaching: college­level courses taught at the CBI Counseling Center, and at Covenant College: Psychotherapies; Group Therapy; Trauma: Its Effects and Treatment; Adolescent Problems; Aging: Normal and Pathological Changes, Physical, Social, and Psychological Struggles.
+ - 12 years as a master's degreed therapist
+ - 30 years as a psychologist
+ - 5 years working with troubled or delinquent teenagers and their families (three years full­time, two years part­time)
+ - 10 years director of CBI counseling Center (14 years altogether at CBI)
+ - 19 years in hospital group therapy (three to six groups per week)
+ - Teaching: college­level courses taught at the CBI Counseling Center, and at Covenant College: Psychotherapies; Group Therapy; Trauma: Its Effects and Treatment; Adolescent Problems; Aging: Normal and Pathological Changes, Physical, Social, and Psychological Struggles
 
 ## Therapeutic Modalities and Client Issues ##
 
