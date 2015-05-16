@@ -38,7 +38,7 @@ BS in Psychology, Social Work/Math minor, University of Illinois.
 
  - Excessive controlling emotions (i.e. depression, anxiety, fear, anger, mania)
  - Relational struggles and brokenness
- - Recovery from life's traumas (i.e., PTSD, this association, emotional and relational disruption)
+ - Recovery from life's traumas (i.e., PTSD, dissociation, emotional and relational disruption)
  - Building successful relationships at home, work, and church
  - Men's and women's issues
  - Sexual attraction concerns
