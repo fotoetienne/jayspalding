@@ -8,14 +8,14 @@ published: true
 
 # Men's Trauma Survivor's Group
 
-    Tuesday's
+    Tuesdays
     5-6:30pm
     Richmont Trauma Center
     1815 McCallie Avenue
-    Chattanooga, TN, 37404
+    Chattanooga, TN 37404
 
 Men who have suffered trauma are invited to participate in a supportive, confidential peer group.
-This group is built upon an ancient scriptural (biblical) foundation, for the purpose of promoting healing from the effects of trauma (e.g., sexual abuse, physical abuse, verbal abuse, warfare, disasters, etc.).
+This group is built upon an ancient scriptural (biblical) foundation, for the purpose of promoting healing from the effects of trauma (e.g. sexual abuse, physical abuse, verbal abuse, warfare, disasters, etc.)
 
     Leader: Jay A. Spalding, PhD, psychologist
     More information: (423) 308-1888
@@ -44,7 +44,7 @@ Our understanding of spiritual aspects of trauma's consequences is based on a bi
 
 ## Goals
 This group is intended to provide a safe, supportive, and affirmative environment to work through traumatic recollections in the context of men who affirm God's presence and His healing truths.
-We hope to provide the opportunity to better understand one's own story in the light of one's faith and in the context of the stories of others and of the biblical narrative. 
+We hope to provide the opportunity to better understand one's own story in the light of one's faith and in the context of the stories of others and of the biblical narrative.
 
 
 It is our hope that in this process members will be able to identify and renounce false ideas that have been connected to their traumas and better understand and embrace what is true.
