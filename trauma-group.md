@@ -21,7 +21,8 @@ This group is built upon an ancient scriptural (biblical) foundation, for the pu
     More information: (423) 308-1888
 
 ## Rationale
-Trauma is central to the historical and theological truths that form the foundation of Christianity.Christianity is a faith in which its center and ultimate historical and spiritual reality is the bloody death of a innocent victim.
+Trauma is central to the historical and theological truths that form the foundation of Christianity.
+Christianity is a faith in which its center and ultimate historical and spiritual reality is the bloody death of a innocent victim.
 It's the story of the offering of an innocent lamb (an completely innocent GOD/ man) to be killed and the resurrection of the same lamb who was then beholden as Lord of all.
 Christianity is the story of one who has power and authority over the enemy, Satan (Genesis 3: 15, Romans 16: 20, Hebrews 2:14, 1John 3:8) and who can free those trapped in the enemy's web as well as share in their suffering, "by his death he might destroy him who holds the power of death - that is, the devil - and free those who all their lives were held in slavery by their fear of death ... And that he might make atonement for the sins of the people. Because he himself suffered when he was tempted, he is able to help those who are being tempted." (Hebrews 2:14a - 18).
 
